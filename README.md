@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+it was a bit of a challenge to switching from the video to actually creating my app due to screen space. I have not used swift before, but it was a bit similar to the programming languages that I know. The hardest part for me was trying to understand what each action I was performing was actually doing, but I'm sure I will learnt that later in the course.'
 
 ## Credits
 
